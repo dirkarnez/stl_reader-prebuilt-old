@@ -127,6 +127,11 @@
 #ifndef __H__STL_READER
 #define __H__STL_READER
 
+#define STL_READER_VERSION_MAJOR 0
+#define STL_READER_VERSION_MINOR 9
+#define STL_READER_VERSION_PATCH 9
+#define STL_READER_VERSION_REVISION 9
+
 #include <algorithm>
 #include <exception>
 #include <fstream>
